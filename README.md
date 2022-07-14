@@ -1,2 +1,2 @@
 # Practice_Kaspersky
-Khilyazov, Ussenko, Myrzash
+Khilyazov, Usenko, Myrzash
