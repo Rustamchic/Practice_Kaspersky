@@ -1,0 +1,6 @@
+entity hello_on_kos.VfsUser
+
+components
+{
+    vfs: kl.Vfs
+}
